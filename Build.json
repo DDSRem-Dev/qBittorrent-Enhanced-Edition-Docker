@@ -1,6 +1,6 @@
 {
     "DockerHub_Repo_Name": "qbittorrentee",
-    "Github_Repo": "DDS-Derek/qBittorrent-Enhanced-Edition-Docker",
+    "Github_Repo": "DDSRem-Dev/qBittorrent-Enhanced-Edition-Docker",
     "Branches": "master",
     "Version_qbee": "$(jq -r '.qBittorrentee_Version' version.json)",
     "Version_qb": "$(jq -r '.qBittorrent_Version' version.json)",
